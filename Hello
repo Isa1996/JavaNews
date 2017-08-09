@@ -1,0 +1,5 @@
+public class DiaJava {
+    public static void main(String[] args) {
+        System.out.println("Hoje é dia de java");
+    }
+}
